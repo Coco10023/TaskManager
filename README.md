@@ -56,3 +56,9 @@ Programmet innehåller grundläggande validering av användarens inmatningar, ex
 ## Syfte
 
 Projektet har utvecklats som en del av kursen Programmering i C#.NET vid Mittuniversitetet. Syftet är att tillämpa kunskaper inom C#, objektorienterad programmering, filhantering och programstruktur.
+
+## Videopresentation
+
+En videodemonstration av TaskManager där jag visar applikationens funktioner, förklarar programstrukturen och beskriver hur uppgifterna sparas med JSON.
+
+**Se videopresentationen här:** Videopresentation av TaskManager: https://youtu.be/Ld5ckVANEGU  
